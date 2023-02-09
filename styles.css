@@ -40,4 +40,5 @@ a {
 
 a:hover {
     background-color: yellow !important;
+    scale: 1.1;
 }
