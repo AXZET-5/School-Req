@@ -34,4 +34,6 @@ a {
 
     padding: 5px;
     border-radius: 10px;
+
+    text-decoration-line: none !important;
 }
