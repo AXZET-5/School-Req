@@ -37,3 +37,7 @@ a {
 
     text-decoration-line: none !important;
 }
+
+a:hover {
+    background-color: yellow !important;
+}
