@@ -38,6 +38,7 @@ a {
     text-decoration-line: none !important;
     
     transition-duration: 0.2s;
+    display: inline-block;
 }
 
 a:hover {
