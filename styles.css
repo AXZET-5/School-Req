@@ -52,3 +52,10 @@ a:hover {
     background-color: yellow !important;
     scale: 1.10;
 }
+
+img {
+	width: 100%;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
