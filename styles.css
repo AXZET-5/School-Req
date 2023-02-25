@@ -64,6 +64,6 @@ img {
     border-radius: 20px;
 }
 
-.DropDownMenu {
+#DropDownMenu {
     display: none;
 }
