@@ -2,7 +2,7 @@ html {
     background-color: rgb(50,50,50);
 }
 
-div {
+.GenericContainer {
     background-color: black;
     width: 80%;
     border-radius: 20px;
